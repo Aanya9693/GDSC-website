@@ -1,4 +1,6 @@
 # GDSC IIEST Hacktoberfest Repo 🚀
+![Figma Design](https://user-images.githubusercontent.com/76564889/194760114-bbda988e-7abb-4e7f-8d37-7773c8978aa2.png)
+
 Maintainer: Aanya9693
 Welcome to the GDSC IIEST Hacktoberfest repository! 🎉
 
@@ -28,32 +30,13 @@ We have designed the website layout using Figma. You can find the design [Figma 
 
 Feel free to explore and contribute!
 
-## Contribution Guidelines
 
-Please make sure to follow the [contribution guidelines](link-to-contribution-guidelines.md) before making a pull request.
-
-## Code of Conduct
-
-Please adhere to the [Code of Conduct](link-to-code-of-conduct.md) while contributing to this project.
-
-## Support
-
-For any queries or support, reach out to us at [your-email@example.com](mailto:your-email@example.com).
-
-Happy hacking! 🌟
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Getting Started with Create React App
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-
+Happy hacking! 🌟
